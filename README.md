@@ -1,7 +1,3 @@
-Based on your detailed code and workflow for the **Molecular Data Machine Learning** project, here’s an updated and tailored `README.md` file that reflects your actual implementation:
-
----
-
 # 🧪 Molecular Data Machine Learning
 
 > Predicting **molecular photostability (T80)** using advanced ensemble machine learning techniques on small, high-dimensional datasets.
